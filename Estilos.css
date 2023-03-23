@@ -1,0 +1,111 @@
+.encabezado {
+  border: 2px solid purple;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+body {
+
+}
+html {
+
+}
+
+.chema {
+  border-radius: px solid;
+  margin: px;
+}
+ul {
+  list-style-type: none;
+  margin: 0%;
+  padding: 10px;
+  overflow: hidden;
+  background-color: black;
+  border: 2px solid purple;
+}
+li {
+  float: left;
+  border: 2px solid purple;
+  color: white;
+  display: block;
+  text-align: center;
+  padding: 10px;
+  margin: 15px;
+  font-size: 30px;
+}
+h2 {
+  text-align: center;
+  color: blue;
+  font-size: 10 px;
+}
+
+h6 {
+  text-align: center;
+}
+.emojy {
+  font-size: 250px;
+  text-align: center;
+}
+
+.derecha {
+  background-color: aqua;
+  float: right;
+  color: black;
+}
+
+.producto {
+  text-align: center;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+#aceptar {
+  font-size: 40px;
+}
+
+#vamos {
+  margin: auto;
+}
+
+.letra {
+  font-size: 25px;
+}
+
+.corazon {
+  margin: 30px;
+  width: 400px;
+
+  float: left;
+}
+.intento {
+  margin: 30px;
+  float: left;
+}
+
+.clear {
+  clear: both;
+}
+.rayo {
+  font-size: 25px;
+
+  left: 300px;
+  margin: 30px;
+}
+
+.w-24
+{
+  margin: 10%;
+
+}
+
+.btn
+{
+
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.btn:hover
+{
+  background-color: #7609e4;
+}
